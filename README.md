@@ -3,36 +3,30 @@ SsRnB is a Booking System based on Laravel, designed for Multivendor rental mark
 
 ## Main Features:
 
-1. Laravel 9
-2. Cloud Storage: S3, Google Cloud Storage
-3. Multi Store Marketplace
-4. Coupon Modules
-5. I18n and l10n tool ready
-6. Various Payment Methods
-7. Multi currency
-8. Mobile App
+Laravel 9
+Cloud Storage: S3, Google Cloud Storage
+Multi Store Marketplace
+Coupon Modules
+I18n and l10n tool ready
+Various Payment Methods
+Multi currency
+Mobile App
 
 ## Payment Gateways:
 
-1. Paypal Express
-
-2. Stripe Checkout
-
-3. Two Checkout
-
-4. Paypal Pro
-
-5. Flutterwave Payment
-
-6. Razorpay
+   Paypal Express
+   Stripe Checkout
+   Two Checkout
+   Paypal Pro
+   Flutterwave Payment
+   Razorpay
 
 ## Pro Features:
 
-1. Wallet
-2. QR Code for Events
-3. Support Center
+Wallet
+QR Code for Events
+Support Center
 
 ### Get Support: [Click here](https://ssrnb.com)
-
 
 ### Author: [BookingCore Team](https://github.com/msharfuddinanik)

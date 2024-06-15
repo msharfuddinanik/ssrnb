@@ -21,11 +21,6 @@ Mobile App
    Flutterwave Payment
    Razorpay
 
-## Pro Features:
-
-Wallet
-QR Code for Events
-Support Center
 
 ### Get Support: [Click here](https://ssrnb.com)
 

@@ -26,6 +26,12 @@ SsRnB is a Booking System based on Laravel, designed for Multivendor rental mark
 
 6. Razorpay
 
+## Pro Features:
+
+1. Wallet
+2. QR Code for Events
+3. Support Center
+
 ### Get Support: [Click here](https://ssrnb.com)
 
 
